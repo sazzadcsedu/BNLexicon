@@ -1,1 +1,1 @@
-# Bengali-Bangla-Sentiment-Lexicon
+# Bengali Bangla Sentiment Lexicon
