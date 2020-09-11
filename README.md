@@ -10,3 +10,6 @@ If you use this lexicon please cite following paper-
   number={},
   pages={107-114},}
 
+
+
+This lexicon was created from a Bengali review corpus.
