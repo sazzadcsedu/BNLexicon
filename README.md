@@ -10,5 +10,6 @@ If you use this lexicon please cite following paper-
   organization={IEEE Computer Society}
 }
 
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C47&q=Development+of+Sentiment+Lexicon+in+Bengali+utilizing+Corpus+and+Cross-lingual+Resources&btnG=
 
 This lexicon was created from a Bengali review corpus.
