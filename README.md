@@ -1,4 +1,4 @@
-# Bengali_Bangla_Sentiment_Lexicon
+# Bengali_Bangla_Sentiment_Lexicon (Development of Sentiment Lexicon in Bengali utilizing Corpus and Cross-lingual Resources)
 If you use this lexicon please cite following paper-
 
 @inproceedings{sazzed2020development,
